@@ -1,0 +1,4 @@
+.vscode/
+env/
+wavs/
+__pycache__/
